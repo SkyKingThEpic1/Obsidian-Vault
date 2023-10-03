@@ -16,5 +16,14 @@
       ],
       "key": "PageDown"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Home"
+    }
   ]
 }
