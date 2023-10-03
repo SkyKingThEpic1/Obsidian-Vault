@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56f26e72f3bada71",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "20d8b1af01e30ac4",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
