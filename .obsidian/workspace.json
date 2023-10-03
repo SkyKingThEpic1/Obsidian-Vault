@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "20d8b1af01e30ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music Title Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music Title Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music Title Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Music Title Ideas.md"
+              }
             }
           },
           {
@@ -165,11 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Week plan": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "905e80ca740df8c2",
+  "active": "20d8b1af01e30ac4",
   "lastOpenFiles": [
+    "Music Title Ideas.md",
     "Context/spacesLastSync.log",
     "Context",
     "Basically just music title ideas.md"
