@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senior Quotes.md",
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senior Quotes.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senior Quotes.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senior Quotes.md"
+                "file": "Quotes.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "ce711cc80abb1ed1",
   "lastOpenFiles": [
-    "Music Title Ideas.md",
-    "Senior Quotes.md",
     "Stable Insanity.md",
+    "Music Title Ideas.md",
+    "Quotes.md",
     "2023-10-02.md",
     "Testing shit out.md",
     "Context/spacesLastSync.log",
